@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 My name is KonradNEU and this is my first time using GitHub!
 
 <!--
 **KonradNEU/KonradNEU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
